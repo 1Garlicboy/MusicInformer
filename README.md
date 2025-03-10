@@ -1,5 +1,5 @@
 # Music Informer
-Currently supports Pytorch >= 1.2.0 with Python >= 3.6  
+This repository contains the implementation of Music Informer, a model for music generation based on the architecture of Music Transformer. While Music Informer inherits key components such as the relative attention mechanism from Music Transformer, it introduces several novel features, including the ProbSparse self-attention mechanism and LSTM structure, which significantly reduces computational complexity.Currently supports Pytorch >= 1.2.0 with Python >= 3.6  
 
 
 ## Generated Music:
